@@ -60,7 +60,7 @@ pip install pandas numpy seaborn matplotlib imbalanced-learn
 This project is licensed under the MIT License.
 
 ## Author
-Your Name
+Ajithkumar
 
 ## Acknowledgments
 - Open-source libraries and contributors
